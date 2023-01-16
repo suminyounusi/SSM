@@ -1,0 +1,5 @@
+# Project exclude paths
+/mybatis_dynamicSQL/target/
+/mybatis_helloworld/target/
+/mybatis_parameter/target/
+/mybatis_resultMap/target/
